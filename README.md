@@ -1,5 +1,5 @@
-# hello-world
-hola mundo
+# Modulos Informatica JAVA
+Ejercicio numero 13 modulos UNLP informatica
 
 /*13. Realizar un módulo que reciba como parámetro el radio de un círculo y retorne su diámetro y su perímetro.
 a. Utilizando el módulo anterior, realizar un programa que analice información de planetas obtenidas
